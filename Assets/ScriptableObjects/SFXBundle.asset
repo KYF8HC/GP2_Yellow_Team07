@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc5da1e2b71635e4c8991da119a93bf7, type: 3}
+  m_Name: SFXBundle
+  m_EditorClassIdentifier: 
+  entries:
+  - key: WinSFX
+    clip:
+      m_AssetGUID: b9947e773334b524fb6533b1b782224e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    volume: 0.531
+    minPitch: 0
+    maxPitch: 0
+  - key: AccelSFX
+    clip:
+      m_AssetGUID: 755dbce62c9fd63458a222833e0e7c53
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    volume: 0.531
+    minPitch: 0
+    maxPitch: 0
+  - key: BreakSFX
+    clip:
+      m_AssetGUID: 369f2016378997f4b8b31105086b581d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    volume: 0.531
+    minPitch: 0
+    maxPitch: 0
+  - key: CrashSFX
+    clip:
+      m_AssetGUID: d0aac46a1c8372647b5812c7321f51ea
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    volume: 0.531
+    minPitch: 0
+    maxPitch: 0
+  - key: RoarSFX
+    clip:
+      m_AssetGUID: 4447b372566dae44fb1dafb17c973688
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    volume: 0.531
+    minPitch: 0
+    maxPitch: 0

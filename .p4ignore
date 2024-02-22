@@ -1,0 +1,12 @@
+#Extensions
+*.csproj
+*.vsconfig
+*.sln
+*.vs
+
+#Directories
+Logs/*
+Library/*
+obj/*
+UserSettings/*
+Temp/*

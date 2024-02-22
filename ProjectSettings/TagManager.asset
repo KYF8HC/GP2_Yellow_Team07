@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SoundSystem
+  - MainMenu
+  - CreditsMenu
+  - OptionsMenu
+  - Netcode
+  - EventSystem
+  - LevelSelectMenu
+  - LoseMenu
+  - WinMenu
+  - ConnectionMenu
+  - PauseMenu
+  - FadeTransition
+  - DaredevilHUD
+  - CoordinatorHUD
+  - RPCManagement
+  - RoleSelectMenu
+  - ScoreSystem
+  - ObstacleSlow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ramp
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
